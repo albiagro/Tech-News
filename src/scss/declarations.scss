@@ -1,0 +1,7 @@
+:root {
+    --SugoFont: 'Sugo Pro Display', sans-serif;
+    --BackgroundDesktopTransparent: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)),url('../img/pattern.png');
+    --OrangeGradient: linear-gradient(#ff3131, #ff914d);
+    --OrangeGradientNotActive: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), var(--OrangeGradient);
+    --Blue: #001447;
+    }

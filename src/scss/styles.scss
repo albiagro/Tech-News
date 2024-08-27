@@ -1,0 +1,44 @@
+@import 'mdb-ui-kit/src/scss/mdb.free.scss';
+@import 'mdb-ui-kit/css/mdb.min.css';
+@import 'declarations.scss';
+
+body {
+  font-family: var(--SugoFont);
+  font-size:20px;
+  color: var(--Blue);
+}
+
+#header {
+  background: var(--OrangeGradient);
+}
+
+.breadcrumb {
+  font-size:25px;
+}
+
+.card-footer {
+  font-size:15px;
+}
+
+.btn {
+  background: var(--OrangeGradient);
+  font-size: 18px;
+  margin:0 auto;
+  display:block;
+}
+
+.dropdown-item {
+  font-size:18px;
+}
+
+.background {
+  background-image: var(--BackgroundDesktopTransparent);
+  height:100%;
+  padding: 20px;
+}
+
+.card {
+  max-width: 50%; 
+  left:25%; 
+  right:25%;
+}
