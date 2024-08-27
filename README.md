@@ -14,7 +14,7 @@ No prerequisites needed.
 
 ### Installing
 
-* No installation needed. Just go to 
+* No installation needed. Just go to https://albiagro-technews.netlify.app/
 
 ### Executing program
 
