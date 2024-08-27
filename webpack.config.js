@@ -69,7 +69,7 @@ module.exports = {
     }),
     new CleanWebpackPlugin(),
     new Dotenv({
-      path: path.resolve(__dirname, 'variables.env')
+      systemvars: true
     })
   ],
   
